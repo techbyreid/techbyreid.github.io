@@ -1,0 +1,31 @@
+h2 {
+    color: red;
+    font-family: 'Bebas Neue', Serif;
+}
+h1 {
+    color: gold;
+    font-family: 'Oswald', Serif;
+    background: rgba(0, 0, 0, 0.5);
+}
+header {
+    text-align: center;
+    background: linear-gradient(90deg, rgb(3, 0, 182) 10%, rgb(11, 232, 144) 40%, rgb(0, 255, 255) 80%);
+    background-size: cover;
+    color: white;
+    
+}
+.pageLine {
+    color: black;
+}
+.special {
+    padding: 0px 10px 0px 10px;
+    display: inline;
+}
+.credit {
+    color: black;
+}
+article {
+    max-width: 500px;
+    padding: 20px;
+    margin: 0 auto;
+}
